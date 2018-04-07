@@ -6,4 +6,4 @@ print(2+2)
 
 print("Hello\nWorld")
 
-print("Hello" + "World") # <-- What's wrong here?
+print("Hello " + "World") # <-- What's wrong here?
